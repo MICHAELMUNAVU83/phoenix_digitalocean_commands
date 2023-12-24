@@ -50,7 +50,10 @@ push it to the server with `scp -r zipfolder.zip ssh:~/`
 
 `sudo certbot --nginx -d example.com -d www.example.com`
 
-## Credits
+## Asdf issues
+
+https://stackoverflow.com/questions/72882383/how-do-i-recompile-rebar3-with-an-erlang-otp-25-compiler-running-elixir-1-13-4?rq=1
+
 
 👤 **MICHAEL MUNAVU**
 
