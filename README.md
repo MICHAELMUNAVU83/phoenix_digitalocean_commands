@@ -171,6 +171,23 @@ server {
 #}
 ````
 
+## Installing certbort
+
+sudo apt install certbot python3-certbot-nginx
+
+
+## Configure certbort
+https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04
+
+
+
+
+
+
+
+
+
+
 👤 **MICHAEL MUNAVU**
 
 - GitHub: [@githubhandle](https://github.com/MICHAELMUNAVU83)
