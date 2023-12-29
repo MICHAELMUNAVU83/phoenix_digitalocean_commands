@@ -181,8 +181,10 @@ https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-
 
 
 
+## Check Nginx Status
 
 
+sudo nginx -t
 
 
 
