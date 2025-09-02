@@ -12,7 +12,13 @@ push it to the server with `scp -r zipfolder.zip ssh:~/`
 
 # Start a New Tmux session
 
+
 `tmux new -s session_name`
+
+
+# NEW ASDF ELIXIR 
+
+sudo apt install -y libncurses-dev libtinfo6
 
 # Attach to a Tmux session
 
