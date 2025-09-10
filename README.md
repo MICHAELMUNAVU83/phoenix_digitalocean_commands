@@ -200,6 +200,10 @@ https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu
 https://www.digitalocean.com/community/tutorials/how-to-install-postgresql-on-ubuntu-20-04-quickstart
 sudo apt update
 sudo apt install curl wget git build-essential autoconf m4 libncurses5-dev libwxgtk3.0-gtk3-dev libwxgtk-webview3.0-gtk3-dev libgl1-mesa-dev libglu1-mesa-dev libpng-dev libssh-dev unixodbc-dev xsltproc fop libxml2-utils libncurses-dev openjdk-11-jdk
+
+sudo apt-get update && sudo apt-get install -y build-essential autoconf libssl-dev libncurses5-dev
+
+
 https://apollin.com/how-to-install-elixir-on-ubuntu-22-using-asdf/
 sudo apt install -y libncurses-dev libtinfo6
 
